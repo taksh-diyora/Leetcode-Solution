@@ -157,7 +157,8 @@ Solutions are organized by **topic** and **difficulty** :
 3232. [Find if Digit Game Can Be Won](Array/3232_FindIfDigitGameCanBeWon.cpp) - Easy
 3432. [Count Partitions with Even Sum Difference](PrefixSum/3432_CountPartitionsWithEvenSumDifference.cpp) - Easy
 3446. [Sort Matrix by Diagonals](Array/3446_SortMatrixByDiagonals.cpp) - Medium
-3512. [Minimum Operations to Make Array Sum Divisible by K](Array/3512_MinimumOperationsToMakeArraySumDivisiblebyK.cpp)
+3512. [Minimum Operations to Make Array Sum Divisible by K](Array/3512_MinimumOperationsToMakeArraySumDivisiblebyK.cpp) - Easy
+3513. 3541. [Find Most Frequent Vowel and Consonant](String/3541_FindMostFrequentVowelAndConsonant.cpp) - Easy
 3583. [Count Special Triplets](Array/3583_CountSpecialTriplets.cpp) - Medium
 3618. [Split Array by Prime Indices](Array/3618_SplitArrayByPrimeIndices.cpp) - Medium
 3676. [Count Bowl Subarrays](Array/3676_CountBowlSubarrays.cpp) - Medium
@@ -177,3 +178,4 @@ Solutions are organized by **topic** and **difficulty** :
 3769. [Sort Integers by Binary Reflection](Array/3769_SortIntegersByBinaryReflection.cpp) - Easy
 
 3770. [Largest Prime from Consecutive Prime Sum](Math/3770_LargestPrimeFromConsecutivePrimeSum.cpp) - Medium
+
