@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Solution {
 public:
     int maxFreqSum(string s) {
@@ -16,4 +17,3 @@ public:
 
         return maxV+maxC;
     }
-};
