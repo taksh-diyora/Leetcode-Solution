@@ -8,4 +8,4 @@ public:
     string decode(string shortUrl) {
         return shortUrl;
     }
-};
+};  
